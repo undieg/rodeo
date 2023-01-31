@@ -1,4 +1,4 @@
-Scala Rodeo
+Scala Rodeo ee
 ===========
 
 Welcome to Deal Engine's Scala Rodeo.
